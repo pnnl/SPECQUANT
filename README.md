@@ -5,9 +5,5 @@ See the file "SpecQuant Getting Started Guide.pdf" for information about how to 
 
 SpecQuant is provided with no official support. Inquiries about the software may be directed to the author listed below.
 
-Christopher Thompson, Ph.D.
-Senior Research Scientist
-Pacific Northwest National Laboratory
-P.O. Box 999
-Richland, WA 99352
+Christopher Thompson, Ph.D., Senior Research Scientist, Pacific Northwest National Laboratory, P.O. Box 999, Richland, WA 99352
 Chris.Thompson@pnnl.gov
